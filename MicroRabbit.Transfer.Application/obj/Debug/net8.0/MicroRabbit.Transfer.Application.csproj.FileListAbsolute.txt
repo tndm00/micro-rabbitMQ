@@ -1,0 +1,17 @@
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Transfer.Application.deps.json
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Transfer.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Transfer.Application.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\refint\MicroRabbit.Transfer.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\ref\MicroRabbit.Transfer.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Domain.Core.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\bin\Debug\net8.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRabbit.Transfer.Application.csproj.AssemblyReference.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Transfer.Application\obj\Debug\net8.0\MicroRab.F898BB92.Up2Date

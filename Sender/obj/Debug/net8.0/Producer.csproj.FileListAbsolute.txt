@@ -1,0 +1,17 @@
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\Producer.exe
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\Producer.deps.json
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\Producer.runtimeconfig.json
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\Producer.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\Producer.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.csproj.AssemblyReference.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.AssemblyInfoInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.AssemblyInfo.cs
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.csproj.Up2Date
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\refint\Producer.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\Producer.genruntimeconfig.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\Sender\obj\Debug\net8.0\ref\Producer.dll

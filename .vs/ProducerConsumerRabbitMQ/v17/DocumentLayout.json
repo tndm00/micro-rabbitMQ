@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59799A-C02C-4464-ACCB-706D3EFA8F43}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|c:\\users\\starter-local\\source\\repos\\producerconsumerrabbitmq\\microrabbit.infra.ioc\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59799A-C02C-4464-ACCB-706D3EFA8F43}|MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj|solutionrelative:microrabbit.infra.ioc\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AAB03E-8DD6-46E7-8FB8-D0FA36B52111}|MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj|c:\\users\\starter-local\\source\\repos\\producerconsumerrabbitmq\\microrabbit.infra.bus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AAB03E-8DD6-46E7-8FB8-D0FA36B52111}|MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj|solutionrelative:microrabbit.infra.bus\\rabbitmqbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C72824-9DF9-46E3-AD41-63C53F30754E}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|c:\\users\\starter-local\\source\\repos\\producerconsumerrabbitmq\\microrabbit.transfer.domain\\eventhandlers\\transfereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C72824-9DF9-46E3-AD41-63C53F30754E}|MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj|solutionrelative:microrabbit.transfer.domain\\eventhandlers\\transfereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFF2B3F-077E-45A5-8B32-E363C6E7EB0A}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|c:\\users\\starter-local\\source\\repos\\producerconsumerrabbitmq\\microrabbit.transfer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFF2B3F-077E-45A5-8B32-E363C6E7EB0A}|MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj|solutionrelative:microrabbit.transfer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8A7155-47C8-4CF8-8E63-09F94C1F5004}|MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj|c:\\users\\starter-local\\source\\repos\\producerconsumerrabbitmq\\microrabbit.banking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8A7155-47C8-4CF8-8E63-09F94C1F5004}|MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj|solutionrelative:microrabbit.banking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Infra.IoC\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Infra.IoC\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Infra.IoC\\ServiceExtension.cs",
+              "RelativeToolTip": "MicroRabbit.Infra.IoC\\ServiceExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:37:24.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "ToolTip": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Domain\\EventHandlers\\TransferEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:12:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Transfer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Transfer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Transfer.Api\\Program.cs",
+              "RelativeToolTip": "MicroRabbit.Transfer.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:13:31.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQBus.cs",
+              "DocumentMoniker": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "ToolTip": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "RelativeToolTip": "MicroRabbit.Infra.Bus\\RabbitMQBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:11:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Banking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MicroRabbit.Banking.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\STARTER-local\\source\\repos\\ProducerConsumerRabbitMQ\\MicroRabbit.Banking.Api\\Program.cs",
+              "RelativeToolTip": "MicroRabbit.Banking.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:16:50.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

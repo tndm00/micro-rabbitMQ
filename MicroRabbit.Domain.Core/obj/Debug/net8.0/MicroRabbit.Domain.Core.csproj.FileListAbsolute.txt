@@ -1,0 +1,12 @@
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.deps.json
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\refint\MicroRabbit.Domain.Core.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Domain.Core\obj\Debug\net8.0\ref\MicroRabbit.Domain.Core.dll

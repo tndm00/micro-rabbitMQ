@@ -1,0 +1,17 @@
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Banking.Application.deps.json
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Banking.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Banking.Application.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\refint\MicroRabbit.Banking.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\ref\MicroRabbit.Banking.Application.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Banking.Domain.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRabbit.Banking.Application.csproj.AssemblyReference.cache
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net8.0\MicroRab.1B946F70.Up2Date
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Domain.Core.dll
+C:\Users\STARTER-local\source\repos\ProducerConsumerRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net8.0\MicroRabbit.Domain.Core.pdb
